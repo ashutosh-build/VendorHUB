@@ -1,4 +1,4 @@
-VendorHub
+VendorHub--
 
 VendorHub is a full-stack vendor management platform that connects customers, vendors, and delivery partners through a secure and scalable system. The project is built using Spring Boot, MongoDB, JWT Authentication, and RESTful APIs, following modern backend development practices.
 
